@@ -1,0 +1,93 @@
+[[libSOCRATES_C]]
+arch = "aarch64"
+git-tree-sha1 = "c827d1da2709bb2d2a47c0c1962dc692f4564d44"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "b45a1c5f810eb578c79ef8725481800c75847361d5fc1c4d174774959ec278d2"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "d55243df920313b1e65950654eeca60e4a4afd5a"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "9ef3d64dc324cc842fd86ffe134d78098b089fe682c7185e1d3313076d6a88ee"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "c7d9ad9e5add99551d114ac565c8cf192d9502c9"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "2f52aef1e13df65924e69b8312bcf5eb8d899876d91eccf65238fa8cc374b3e7"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "8ca1f7241518ac6f1eb300378a8d283c20891451"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "75669e88d298ba6a3972c7617377d1de8858ccaa341f34063bc2dcb679df36e0"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "275b01792081a99b01ec32bdecb8ab1fa8405644"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "707a57c6c3054e9d7508e65f4334e8bb460aea7c1999530d28ad739667224be3"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "46444fc2d1f3fa2db8c13a6e4d8cb988e2227b68"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "cf9a3c934ce169b594198df71c106eb33f88805bee44ae1967c9a663f9883e25"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "2207f819c9735ddc9df3c197b94bcfab5d8c6d9e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "46dd1fadaa65b8cb6f5e503dcafc6610c44cb0ee1e656733dcab219fee83104a"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "5e6f6abb1c845e7e56ba61b938266f5c96a47173"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "b64bfc5b8de5495da2b31fdd2acd7820ad090d57ebe867a847123b9e08659dc5"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "37cab09c353644c7ba12a34fc5394c46a40ed3c8"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "5212c8e6978367a404b7163771d76dcd48830ebf68d380e4e2c6c4a0d83e07f6"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[libSOCRATES_C]]
+arch = "x86_64"
+git-tree-sha1 = "76ae3b6ea3484460830a81b598b10f31c2e94692"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[libSOCRATES_C.download]]
+    sha256 = "30c69ce75497c0adb2c573284bab10a9b0c8ec1ef929932e6b7fc89360d6b653"
+    url = "https://github.com/sjdaines/libSOCRATES_C_jll.jl/releases/download/libSOCRATES_C-v13.0.0+0/libSOCRATES_C.v13.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
